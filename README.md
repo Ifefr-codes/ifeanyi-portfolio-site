@@ -1,26 +1,19 @@
-# ifeanyi-portfolio
+# ifeanyi-portfolio-site
 
-This is a portfolio website for my client.  
-It is built with HTML, CSS, and JavaScript to showcase work and resume in a clean, responsive layout.
+Welcome to my personal portfolio website — a showcase of my work, skills, and creative projects.
 
-## 🔗 Live Demo
-[Visit the live site](https://Ifefr-codes.github.io/ifeanyi-portfolio)
+## 🚀 Features
+- Responsive design for desktop and mobile
+- Smooth animations and transitions
+- Project gallery with live demos
+- Contact form for inquiries
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-
-## 📁 Structure
-- `index.html`: Main landing page
-- `css/`: Stylesheets
-- `js/`: JavaScript files
-- `assets/`: Images and media
-
-## ✨ Features
-- Responsive design
-- Project showcase
-- Contact section
+## 🛠️ Tech Stack
+- HTML5, CSS3, JavaScript
+- GitHub Pages for hosting
 
 ## 📬 Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ifeanyi-izuegbunam-042741331) or email me at `jetagenetworks@gmail.com`.
+Feel free to reach out via the contact form or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+
+## 🌐 Live Site
+[https://ifefr-codes.github.io/ifeanyi-portfolio-site](https://ifefr-codes.github.io/ifeanyi-portfolio-site)
